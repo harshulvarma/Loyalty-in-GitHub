@@ -1,4 +1,6 @@
-## Loyalty in GitHub Repositories
+## Loyalty in GitHub Repositories 
+
+Notebook Link: https://nbviewer.jupyter.org/github/harshulvarma/Loyalty-in-GitHub/blob/main/loyalty_in_github.ipynb
 
 ### Overview
 
