@@ -14,8 +14,8 @@ Loyal and Unloyal developers and repositories were firstly found using commiting
 
 For repository level differences were found in average commits per month, average number of devs and also network properties extracted using network graphs representing interaction between devs in a certain repository (show below). Network graphs were constructed if two given devs commited on the same repo at a given month with as they probably interacted with each other or each other's work at some point. For developers average days between commits and the view counts of repositories they choose to commit on were analysed.
 
-<img src="images/loyal.png?raw=true"/>
-<img src="images/loyal2.png?raw=true"/>
+<img src="loyal.png?raw=true"/>
+<img src="loyal2.png?raw=true"/>
 
 ### Predicting loyal developers on GitHub
 
