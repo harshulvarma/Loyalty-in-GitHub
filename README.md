@@ -1,4 +1,4 @@
-## Loyalty in Repositories on GitHub
+## Loyalty in GitHub Repositories
 
 ### Overview
 
