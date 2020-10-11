@@ -18,8 +18,8 @@ Next, I created following features for each developer based on the analysis:
 And finally using the above features a machine learning pipeline was created using Random Forest to predict whether a given developer is loyal or not with 0.9 AUC.
 
 ### Tools Utilised
--Google BigQuery
--Spark SQL
--PySpark
--NetworkX
--MlLib
+- Google BigQuery
+- Spark SQL
+- PySpark
+- NetworkX
+- MlLib
